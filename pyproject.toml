@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "mylibrary"
-version = "1.0.0"
+version = "2.0.0"
 description = "A very simple but cool package"
 authors = ["Marc Deslis"]
 license = "MIT"

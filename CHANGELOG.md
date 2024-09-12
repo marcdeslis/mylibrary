@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## v2.0.0 (2024-09-12)
+
+### Breaking
+
+* feat: update the code majorly
+
+BREAKING CHANGE: hello_world2 function removed it cannot be used ([`c4b7493`](https://github.com/marcdeslis/mylibrary/commit/c4b7493c4ae2416524d789a44baad5f518d93054))
+
 ## v1.0.0 (2024-09-12)
 
 ### Breaking
